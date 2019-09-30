@@ -1,5 +1,9 @@
 # vr-front
 
+## Overview
+
+VR 대여 시스템 프론트엔드 코드입니다.
+
 ## Project setup
 ```
 npm install

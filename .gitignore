@@ -240,3 +240,4 @@ typings/
 .dynamodb/
 
 .idea
+dist
